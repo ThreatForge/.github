@@ -2,7 +2,7 @@
 
 ![ThreatForge Logo](logo1.png)
 
-ThreatForge Technologies specializes in crafting  cybersecurity tools, ranging from vulnerability scanners to comprehensive code analysis platforms. Our relentless focus on innovation ensures that our clients not only keep pace but stay a step ahead in the ever-evolving landscape of cyber threats.
+ThreatForge Technologies specializes in crafting cutting-edge tools, from encryption solutions to database simulation and test data generation. Our relentless focus on innovation ensures that our clients not only keep pace but stay ahead in the ever-evolving landscape of cyber threats
 
 ## Mission
 
